@@ -1,0 +1,12 @@
+== README
+
+. 学习 `git` 命令
+- 在github中建立一个账号
+- 在github中建立一个repos(项目名自定义), 将本地的repos push到github中
+- 本地repos中只有一个 `readme.md` 文件,内容自定义.
+. 学习 `ssh` 命令
+- ssh到对方的电脑,找到对方repos中的 `readme.md`,查看其内容
+- 将此文件通过 `scp` 命令传到自己的电脑上.
+- 在自己的电脑上查看此文件.
+
+NOTE: 书上和网络上找教程. 周一检查.
